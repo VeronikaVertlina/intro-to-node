@@ -6,7 +6,8 @@
 // fs.copyFileSync('file1.txt', 'file2.txt');
 // console.log('file1.txt was copied to file2.txt')
 
-var superheroes = require('superheroes');
+
+const superheroes = require('superheroes');
 var supervillains = require('supervillains');
 
 var mySuperheroName = superheroes.random();
